@@ -1,0 +1,11 @@
+name: ThinkDSP_Exercises
+
+dependencies:
+  - python>=3.6
+  - jupyter
+  - numpy>=1.16
+  - matplotlib
+  - seaborn
+  - pandas
+  - scipy
+
